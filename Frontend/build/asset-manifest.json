@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1e7ee70b.css",
+    "main.js": "/static/js/main.4b577514.js",
+    "static/js/717.1ba921cd.chunk.js": "/static/js/717.1ba921cd.chunk.js",
+    "static/js/78.74e85058.chunk.js": "/static/js/78.74e85058.chunk.js",
+    "static/js/383.4d344d94.chunk.js": "/static/js/383.4d344d94.chunk.js",
+    "static/js/934.bae8d911.chunk.js": "/static/js/934.bae8d911.chunk.js",
+    "static/js/286.f287aab5.chunk.js": "/static/js/286.f287aab5.chunk.js",
+    "static/js/420.c1325dd7.chunk.js": "/static/js/420.c1325dd7.chunk.js",
+    "static/js/151.76af44e2.chunk.js": "/static/js/151.76af44e2.chunk.js",
+    "static/js/840.37ca4a4f.chunk.js": "/static/js/840.37ca4a4f.chunk.js",
+    "static/js/707.9f62ec55.chunk.js": "/static/js/707.9f62ec55.chunk.js",
+    "static/js/83.6ec34adf.chunk.js": "/static/js/83.6ec34adf.chunk.js",
+    "static/js/713.f7d1187b.chunk.js": "/static/js/713.f7d1187b.chunk.js",
+    "static/js/53.30e53179.chunk.js": "/static/js/53.30e53179.chunk.js",
+    "static/js/42.b81dd92c.chunk.js": "/static/js/42.b81dd92c.chunk.js",
+    "static/js/210.13340621.chunk.js": "/static/js/210.13340621.chunk.js",
+    "static/js/832.54f9bc49.chunk.js": "/static/js/832.54f9bc49.chunk.js",
+    "static/js/288.7e2588f0.chunk.js": "/static/js/288.7e2588f0.chunk.js",
+    "static/css/864.247f9394.chunk.css": "/static/css/864.247f9394.chunk.css",
+    "static/js/864.d4ddc351.chunk.js": "/static/js/864.d4ddc351.chunk.js",
+    "static/js/258.ebe2b6ce.chunk.js": "/static/js/258.ebe2b6ce.chunk.js",
+    "static/media/user-round.svg": "/static/media/user-round.13b5a31bebd2cc6016d6db2cac8e92d1.svg",
+    "static/media/mastercard.png": "/static/media/mastercard.35468db92c555b9677a4.png",
+    "static/media/visa.png": "/static/media/visa.21879bff221bfdce5dde.png",
+    "static/media/americanexpress.png": "/static/media/americanexpress.085cd795eb6d3257a877.png",
+    "index.html": "/index.html",
+    "static/media/social-google.svg": "/static/media/social-google.9887eb8eb43729cb99f402cfa0de3c44.svg"
+  },
+  "entrypoints": [
+    "static/css/main.1e7ee70b.css",
+    "static/js/main.4b577514.js"
+  ]
+}
